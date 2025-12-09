@@ -16,7 +16,7 @@ ECHO 1. Run Initial Scan
 ECHO 2. Cleanup Image
 ECHO 3. Check Disk
 ECHO 4. Repair WMI Repository
-ECHO 5. Automated Full Repair (NOT AVAILABLE)
+ECHO 5. Automated Full Repair
 ECHO 6. Exit
 ECHO.
 
