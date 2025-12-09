@@ -53,7 +53,7 @@ goto :eof
 echo five >%~dp0current.txt
 echo -- Step three --
 ECHO Checking Disk...
-chkdsk /f
+echo y | chkdsk C: /F /R
 GOTO REBOOT_NOW
 goto :eof
 
